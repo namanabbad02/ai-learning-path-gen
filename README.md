@@ -194,5 +194,4 @@ Want me to?
 - Update `client/README.md` with app-specific instructions and screenshots.
 - Create `.env.example` files for `server/` and `ai-engine/`.
 
----
-Generated automatically from repository contents.
+
