@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # 1. PostgreSQL Database (For User Profiles)
+  postgres:
+    image: postgres:15
+    container_name: learning_postgres
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password123
+      POSTGRES_DB: learning_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  # 2. Neo4j Graph Database (For Knowledge Graph)
+  neo4j:
+    image: neo4j:5.11.0
+    container_name: learning_neo4j
+    environment:
+      NEO4J_AUTH: neo4j/password123
+      NEO4J_apoc_export_file_enabled: "true"
+      NEO4J_apoc_import_file_enabled: "true"
+      NEO4J_apoc_import_file_use__neo4j__config: "true"
+      NEO4J_PLUGINS: '["apoc", "graph-data-science"]'
+    ports:
+      - "7474:7474" # HTTP Browser
+      - "7687:7687" # Bolt Port (for code connection)
+    volumes:
+      - neo4jdata:/data
+
+volumes:
+  pgdata:
+  neo4jdata:

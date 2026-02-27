@@ -1,0 +1,1356 @@
+{
+  "roles": [
+    {
+      "id": "role_fullstack",
+      "title": "Full Stack Developer",
+      "description": "Master both frontend and backend.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "SQL",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "id": "role_ds",
+      "title": "Data Scientist",
+      "description": "Extract insights from data using AI.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Python",
+        "Statistics",
+        "Machine Learning",
+        "SQL",
+        "Data Visualization"
+      ]
+    },
+    {
+      "id": "role_cyber",
+      "title": "Cyber Security Analyst",
+      "description": "Protect systems from cyber threats.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Networking",
+        "Linux",
+        "Python",
+        "Cryptography",
+        "Ethical Hacking"
+      ]
+    },
+    {
+      "id": "role_devops",
+      "title": "DevOps Engineer",
+      "description": "Bridge development and operations.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Python"
+      ]
+    },
+    {
+      "id": "role_mobile_ios",
+      "title": "iOS Developer",
+      "description": "Build apps for Apple devices.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Swift",
+        "iOS SDK",
+        "Xcode",
+        "Git",
+        "UI/UX Basics"
+      ]
+    },
+    {
+      "id": "role_mobile_android",
+      "title": "Android Developer",
+      "description": "Build apps for Android devices.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Kotlin",
+        "Java",
+        "Android SDK",
+        "Git",
+        "XML"
+      ]
+    },
+    {
+      "id": "role_game_dev",
+      "title": "Game Developer",
+      "description": "Create interactive video games.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "C++",
+        "C#",
+        "Unity",
+        "Unreal Engine",
+        "Linear Algebra"
+      ]
+    },
+    {
+      "id": "role_cloud_aws",
+      "title": "Cloud Architect (AWS)",
+      "description": "Design scalable cloud infrastructure.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "AWS Services",
+        "Networking",
+        "Linux",
+        "Python",
+        "Security Groups"
+      ]
+    },
+    {
+      "id": "role_ui_ux",
+      "title": "UI/UX Designer",
+      "description": "Design user-friendly interfaces.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Figma",
+        "Adobe XD",
+        "Prototyping",
+        "HTML/CSS",
+        "User Research"
+      ]
+    },
+    {
+      "id": "role_blockchain",
+      "title": "Blockchain Developer",
+      "description": "Build decentralized applications.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Solidity",
+        "Cryptography",
+        "JavaScript",
+        "Smart Contracts",
+        "Node.js"
+      ]
+    },
+    {
+      "id": "role_qa",
+      "title": "QA Automation Engineer",
+      "description": "Automate software testing.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Selenium",
+        "Java",
+        "Python",
+        "SQL",
+        "Jira"
+      ]
+    },
+    {
+      "id": "role_data_eng",
+      "title": "Data Engineer",
+      "description": "Build data pipelines and architecture.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "SQL",
+        "Python",
+        "Spark",
+        "Hadoop",
+        "ETL Tools"
+      ]
+    },
+    {
+      "id": "role_frontend",
+      "title": "Frontend Developer",
+      "description": "Specialize in visual interfaces.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "HTML/CSS",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "role_backend",
+      "title": "Backend Developer",
+      "description": "Handle server-side logic.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Node.js",
+        "Python",
+        "Go",
+        "SQL",
+        "Redis"
+      ]
+    },
+    {
+      "id": "role_ml_eng",
+      "title": "ML Engineer",
+      "description": "Deploy machine learning models.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Python",
+        "TensorFlow",
+        "Docker",
+        "Kubernetes",
+        "API Design"
+      ]
+    },
+    {
+      "id": "role_product",
+      "title": "Product Manager",
+      "description": "Guide product success.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Agile",
+        "Jira",
+        "User Research",
+        "Data Analysis",
+        "Communication"
+      ]
+    },
+    {
+      "id": "role_network",
+      "title": "Network Engineer",
+      "description": "Manage computer networks.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Networking",
+        "Cisco IOS",
+        "TCP/IP",
+        "Firewalls",
+        "Linux"
+      ]
+    },
+    {
+      "id": "role_embedded",
+      "title": "Embedded Systems Eng",
+      "description": "Code for hardware devices.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "C",
+        "C++",
+        "Microcontrollers",
+        "RTOS",
+        "Electronics"
+      ]
+    },
+    {
+      "id": "role_dba",
+      "title": "Database Administrator",
+      "description": "Manage and secure databases.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Oracle",
+        "Linux",
+        "Backup Strategies"
+      ]
+    },
+    {
+      "id": "role_sre",
+      "title": "Site Reliability Eng",
+      "description": "Ensure system uptime.",
+      "salary_range": "$80k - $150k",
+      "required_skills": [
+        "Linux",
+        "Python",
+        "Go",
+        "Monitoring Tools",
+        "Terraform"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill_c#",
+      "name": "C#",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_c++",
+      "name": "C++",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_postgresql",
+      "name": "PostgreSQL",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_linux",
+      "name": "Linux",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_docker",
+      "name": "Docker",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_kubernetes",
+      "name": "Kubernetes",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_oracle",
+      "name": "Oracle",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_redis",
+      "name": "Redis",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_ci_cd",
+      "name": "CI/CD",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_cryptography",
+      "name": "Cryptography",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_ios_sdk",
+      "name": "iOS SDK",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_c",
+      "name": "C",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_terraform",
+      "name": "Terraform",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_statistics",
+      "name": "Statistics",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_cisco_ios",
+      "name": "Cisco IOS",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_xcode",
+      "name": "Xcode",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_jira",
+      "name": "Jira",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_ui_ux_basics",
+      "name": "UI/UX Basics",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_ethical_hacking",
+      "name": "Ethical Hacking",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_spark",
+      "name": "Spark",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_communication",
+      "name": "Communication",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_data_visualization",
+      "name": "Data Visualization",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_unity",
+      "name": "Unity",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_node.js",
+      "name": "Node.js",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_hadoop",
+      "name": "Hadoop",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_typescript",
+      "name": "TypeScript",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_java",
+      "name": "Java",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_sql",
+      "name": "SQL",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_html_css",
+      "name": "HTML/CSS",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_user_research",
+      "name": "User Research",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_data_analysis",
+      "name": "Data Analysis",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_etl_tools",
+      "name": "ETL Tools",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_react",
+      "name": "React",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_microcontrollers",
+      "name": "Microcontrollers",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_xml",
+      "name": "XML",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_monitoring_tools",
+      "name": "Monitoring Tools",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_aws_services",
+      "name": "AWS Services",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_git",
+      "name": "Git",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_agile",
+      "name": "Agile",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_tcp_ip",
+      "name": "TCP/IP",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_python",
+      "name": "Python",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_kotlin",
+      "name": "Kotlin",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_vue.js",
+      "name": "Vue.js",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_backup_strategies",
+      "name": "Backup Strategies",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_security_groups",
+      "name": "Security Groups",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_networking",
+      "name": "Networking",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_figma",
+      "name": "Figma",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_go",
+      "name": "Go",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_tensorflow",
+      "name": "TensorFlow",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_android_sdk",
+      "name": "Android SDK",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_adobe_xd",
+      "name": "Adobe XD",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_unreal_engine",
+      "name": "Unreal Engine",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_api_design",
+      "name": "API Design",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_javascript",
+      "name": "JavaScript",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_swift",
+      "name": "Swift",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_firewalls",
+      "name": "Firewalls",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_rtos",
+      "name": "RTOS",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_machine_learning",
+      "name": "Machine Learning",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_prototyping",
+      "name": "Prototyping",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_electronics",
+      "name": "Electronics",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_linear_algebra",
+      "name": "Linear Algebra",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_selenium",
+      "name": "Selenium",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_solidity",
+      "name": "Solidity",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    },
+    {
+      "id": "skill_smart_contracts",
+      "name": "Smart Contracts",
+      "category": "Tech",
+      "difficulty": "Intermediate",
+      "prerequisites": []
+    }
+  ],
+  "resources": [
+    {
+      "id": "res_skill_c#",
+      "title": "Complete Guide to C#",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=C#",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_c#"
+      ]
+    },
+    {
+      "id": "res_skill_c++",
+      "title": "Complete Guide to C++",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=C++",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_c++"
+      ]
+    },
+    {
+      "id": "res_skill_postgresql",
+      "title": "Complete Guide to PostgreSQL",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=PostgreSQL",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_postgresql"
+      ]
+    },
+    {
+      "id": "res_skill_linux",
+      "title": "Complete Guide to Linux",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Linux",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_linux"
+      ]
+    },
+    {
+      "id": "res_skill_docker",
+      "title": "Complete Guide to Docker",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Docker",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_docker"
+      ]
+    },
+    {
+      "id": "res_skill_kubernetes",
+      "title": "Complete Guide to Kubernetes",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Kubernetes",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_kubernetes"
+      ]
+    },
+    {
+      "id": "res_skill_oracle",
+      "title": "Complete Guide to Oracle",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Oracle",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_oracle"
+      ]
+    },
+    {
+      "id": "res_skill_redis",
+      "title": "Complete Guide to Redis",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Redis",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_redis"
+      ]
+    },
+    {
+      "id": "res_skill_ci_cd",
+      "title": "Complete Guide to CI/CD",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=CI/CD",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_ci_cd"
+      ]
+    },
+    {
+      "id": "res_skill_cryptography",
+      "title": "Complete Guide to Cryptography",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Cryptography",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_cryptography"
+      ]
+    },
+    {
+      "id": "res_skill_ios_sdk",
+      "title": "Complete Guide to iOS SDK",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=iOS SDK",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_ios_sdk"
+      ]
+    },
+    {
+      "id": "res_skill_c",
+      "title": "Complete Guide to C",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=C",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_c"
+      ]
+    },
+    {
+      "id": "res_skill_terraform",
+      "title": "Complete Guide to Terraform",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Terraform",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_terraform"
+      ]
+    },
+    {
+      "id": "res_skill_statistics",
+      "title": "Complete Guide to Statistics",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Statistics",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_statistics"
+      ]
+    },
+    {
+      "id": "res_skill_cisco_ios",
+      "title": "Complete Guide to Cisco IOS",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Cisco IOS",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_cisco_ios"
+      ]
+    },
+    {
+      "id": "res_skill_xcode",
+      "title": "Complete Guide to Xcode",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Xcode",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_xcode"
+      ]
+    },
+    {
+      "id": "res_skill_jira",
+      "title": "Complete Guide to Jira",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Jira",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_jira"
+      ]
+    },
+    {
+      "id": "res_skill_ui_ux_basics",
+      "title": "Complete Guide to UI/UX Basics",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=UI/UX Basics",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_ui_ux_basics"
+      ]
+    },
+    {
+      "id": "res_skill_ethical_hacking",
+      "title": "Complete Guide to Ethical Hacking",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Ethical Hacking",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_ethical_hacking"
+      ]
+    },
+    {
+      "id": "res_skill_spark",
+      "title": "Complete Guide to Spark",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Spark",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_spark"
+      ]
+    },
+    {
+      "id": "res_skill_communication",
+      "title": "Complete Guide to Communication",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Communication",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_communication"
+      ]
+    },
+    {
+      "id": "res_skill_data_visualization",
+      "title": "Complete Guide to Data Visualization",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Data Visualization",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_data_visualization"
+      ]
+    },
+    {
+      "id": "res_skill_unity",
+      "title": "Complete Guide to Unity",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Unity",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_unity"
+      ]
+    },
+    {
+      "id": "res_skill_node.js",
+      "title": "Complete Guide to Node.js",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Node.js",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_node.js"
+      ]
+    },
+    {
+      "id": "res_skill_hadoop",
+      "title": "Complete Guide to Hadoop",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Hadoop",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_hadoop"
+      ]
+    },
+    {
+      "id": "res_skill_typescript",
+      "title": "Complete Guide to TypeScript",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=TypeScript",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_typescript"
+      ]
+    },
+    {
+      "id": "res_skill_java",
+      "title": "Complete Guide to Java",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Java",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_java"
+      ]
+    },
+    {
+      "id": "res_skill_sql",
+      "title": "Complete Guide to SQL",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=SQL",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_sql"
+      ]
+    },
+    {
+      "id": "res_skill_html_css",
+      "title": "Complete Guide to HTML/CSS",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=HTML/CSS",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_html_css"
+      ]
+    },
+    {
+      "id": "res_skill_user_research",
+      "title": "Complete Guide to User Research",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=User Research",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_user_research"
+      ]
+    },
+    {
+      "id": "res_skill_data_analysis",
+      "title": "Complete Guide to Data Analysis",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Data Analysis",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_data_analysis"
+      ]
+    },
+    {
+      "id": "res_skill_etl_tools",
+      "title": "Complete Guide to ETL Tools",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=ETL Tools",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_etl_tools"
+      ]
+    },
+    {
+      "id": "res_skill_react",
+      "title": "Complete Guide to React",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=React",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_react"
+      ]
+    },
+    {
+      "id": "res_skill_microcontrollers",
+      "title": "Complete Guide to Microcontrollers",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Microcontrollers",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_microcontrollers"
+      ]
+    },
+    {
+      "id": "res_skill_xml",
+      "title": "Complete Guide to XML",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=XML",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_xml"
+      ]
+    },
+    {
+      "id": "res_skill_monitoring_tools",
+      "title": "Complete Guide to Monitoring Tools",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Monitoring Tools",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_monitoring_tools"
+      ]
+    },
+    {
+      "id": "res_skill_aws_services",
+      "title": "Complete Guide to AWS Services",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=AWS Services",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_aws_services"
+      ]
+    },
+    {
+      "id": "res_skill_git",
+      "title": "Complete Guide to Git",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Git",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_git"
+      ]
+    },
+    {
+      "id": "res_skill_agile",
+      "title": "Complete Guide to Agile",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Agile",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_agile"
+      ]
+    },
+    {
+      "id": "res_skill_tcp_ip",
+      "title": "Complete Guide to TCP/IP",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=TCP/IP",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_tcp_ip"
+      ]
+    },
+    {
+      "id": "res_skill_python",
+      "title": "Complete Guide to Python",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Python",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_python"
+      ]
+    },
+    {
+      "id": "res_skill_kotlin",
+      "title": "Complete Guide to Kotlin",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Kotlin",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_kotlin"
+      ]
+    },
+    {
+      "id": "res_skill_vue.js",
+      "title": "Complete Guide to Vue.js",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Vue.js",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_vue.js"
+      ]
+    },
+    {
+      "id": "res_skill_backup_strategies",
+      "title": "Complete Guide to Backup Strategies",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Backup Strategies",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_backup_strategies"
+      ]
+    },
+    {
+      "id": "res_skill_security_groups",
+      "title": "Complete Guide to Security Groups",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Security Groups",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_security_groups"
+      ]
+    },
+    {
+      "id": "res_skill_networking",
+      "title": "Complete Guide to Networking",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Networking",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_networking"
+      ]
+    },
+    {
+      "id": "res_skill_figma",
+      "title": "Complete Guide to Figma",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Figma",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_figma"
+      ]
+    },
+    {
+      "id": "res_skill_go",
+      "title": "Complete Guide to Go",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Go",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_go"
+      ]
+    },
+    {
+      "id": "res_skill_tensorflow",
+      "title": "Complete Guide to TensorFlow",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=TensorFlow",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_tensorflow"
+      ]
+    },
+    {
+      "id": "res_skill_android_sdk",
+      "title": "Complete Guide to Android SDK",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Android SDK",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_android_sdk"
+      ]
+    },
+    {
+      "id": "res_skill_adobe_xd",
+      "title": "Complete Guide to Adobe XD",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Adobe XD",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_adobe_xd"
+      ]
+    },
+    {
+      "id": "res_skill_unreal_engine",
+      "title": "Complete Guide to Unreal Engine",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Unreal Engine",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_unreal_engine"
+      ]
+    },
+    {
+      "id": "res_skill_api_design",
+      "title": "Complete Guide to API Design",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=API Design",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_api_design"
+      ]
+    },
+    {
+      "id": "res_skill_javascript",
+      "title": "Complete Guide to JavaScript",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=JavaScript",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_javascript"
+      ]
+    },
+    {
+      "id": "res_skill_swift",
+      "title": "Complete Guide to Swift",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Swift",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_swift"
+      ]
+    },
+    {
+      "id": "res_skill_firewalls",
+      "title": "Complete Guide to Firewalls",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Firewalls",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_firewalls"
+      ]
+    },
+    {
+      "id": "res_skill_rtos",
+      "title": "Complete Guide to RTOS",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=RTOS",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_rtos"
+      ]
+    },
+    {
+      "id": "res_skill_machine_learning",
+      "title": "Complete Guide to Machine Learning",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Machine Learning",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_machine_learning"
+      ]
+    },
+    {
+      "id": "res_skill_prototyping",
+      "title": "Complete Guide to Prototyping",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Prototyping",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_prototyping"
+      ]
+    },
+    {
+      "id": "res_skill_electronics",
+      "title": "Complete Guide to Electronics",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Electronics",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_electronics"
+      ]
+    },
+    {
+      "id": "res_skill_linear_algebra",
+      "title": "Complete Guide to Linear Algebra",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Linear Algebra",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_linear_algebra"
+      ]
+    },
+    {
+      "id": "res_skill_selenium",
+      "title": "Complete Guide to Selenium",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Selenium",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_selenium"
+      ]
+    },
+    {
+      "id": "res_skill_solidity",
+      "title": "Complete Guide to Solidity",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Solidity",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_solidity"
+      ]
+    },
+    {
+      "id": "res_skill_smart_contracts",
+      "title": "Complete Guide to Smart Contracts",
+      "type": "Course",
+      "url": "https://www.coursera.org/search?query=Smart Contracts",
+      "duration": "10 Hours",
+      "teaches": [
+        "skill_smart_contracts"
+      ]
+    }
+  ]
+}

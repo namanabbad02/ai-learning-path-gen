@@ -1,0 +1,29 @@
+## Node
+node_modules/
+client/node_modules/
+server/node_modules/
+
+## Python
+__pycache__/
+*.pyc
+env/
+venv/
+/.venv
+
+## Editor
+.vscode/
+.idea/
+
+## Environment
+.env
+*.env
+
+## Build
+dist/
+build/
+coverage/
+
+## OS
+Thumbs.db
+ehthumbs.db
+.DS_Store
